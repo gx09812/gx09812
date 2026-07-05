@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Gladwin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Hardware,%20Software%20%26%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Gladwin%20Mano%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/gx09812">
   <img src="https://readme-typing-svg.demolab.com/?lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Currently+Building+Tech+Tree+Root+(TTR);Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day.&font=Fira%20Code&center=true&width=650&height=45&color=00C6FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
@@ -19,117 +19,127 @@
 
 <br/>
 
-## 🧭 About Me
+##  About Me
 
-I'm **Gladwin Mano N**, a full-time student who spends the rest of the time building things that sit right where **hardware, software, and AI meet**. I'm most at home in **IoT and embedded systems** — wiring up sensors, getting boards to talk to code, and then layering intelligence on top of it.
-
-I don't stick to one lane. On any given week I might be:
-
-- 🔌 Prototyping an embedded/IoT circuit and writing the firmware or control logic for it
-- 🧠 Training or wiring up a computer-vision model to react to the real world
-- 🎮 Connecting that hardware into a Unity/game-engine layer to visualize or control it
-- 🌐 Building the web front-end that ties the whole project together
-
-That mix is exactly why I started my flagship project — **Tech Tree Root**.
-
-<br/>
- 
-
-**[Tech Tree Root (TTR)](https://github.com/gx09812/Tech-Tree-Root)** is my main focus right now — a flexible system that connects **Unity, hardware, and software into one organized "tech tree."** It's built to track dependencies, features, and systems so a project (game, robot, IoT setup — anything) can grow feature by feature instead of turning into spaghetti. Think of it as infrastructure for my own future builds.
-
-Alongside that, I'm sharpening my skills in:
-- Real-time computer vision (object/hand/face/eye tracking)
-- Wireless signal simulation and networking concepts
-- Rapid prototyping — hackathon-style builds under time pressure
+name: "Gladwin Mano N"
+role: "Electronics &amp; Communication Engineering Student"
+career_goal: "Core VLSI Engineer | AI &amp; Embedded Systems Innovator"
+focus_areas:
+  - Artificial Intelligence &amp; Machine Learning
+  - Embedded Systems &amp; Embedded Linux
+  - IoT &amp; Computer Vision
+  - FPGA &amp; VLSI Design
+  - Flutter Development &amp; Networking
+philosophy: "Engineering solutions at the intersection of hardware and software"
 
 <br/>
 
-## 🛤️ Before → Now
+## Tech Stack
 
-| Before | Now |
-|---|---|
-| Learning the basics — HTML/JS pages, simple scripts | Combining Python, CV, and embedded logic into working systems |
-| Working on isolated, single-purpose scripts | Designing a connected "tech tree" architecture (TTR) that scales across projects |
-| Just experimenting with hardware | Building purposeful IoT/embedded projects (drones, mini cars, sensor-driven tools) |
-| Coding alone on small ideas | Building for real people — e.g. an e-commerce gallery for my local community |
+<div align="center">
 
-I didn't come in knowing all of this — I picked up web dev first, then pulled in Python and computer vision, and I'm now folding in embedded systems and IoT so I can build things that actually exist in the physical world, not just on a screen.
+**Languages &amp; Core**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=00BFFF)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=8A2BE2)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=00BFFF)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=8A2BE2)
+![Verilog](https://img.shields.io/badge/Verilog%20HDL-1a1a2e?style=for-the-badge&amp;logo=v&amp;logoColor=00BFFF)
 
-## 🛠️ Featured Projects
+**AI / ML / Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&amp;logo=opencv&amp;logoColor=00BFFF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=8A2BE2)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&amp;logo=numpy&amp;logoColor=00BFFF)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&amp;logo=pandas&amp;logoColor=8A2BE2)
+
+**Embedded / IoT / VLSI**
+
+![Arduino](https://img.shields.io/badge/Arduino-1a1a2e?style=for-the-badge&amp;logo=arduino&amp;logoColor=00BFFF)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1a1a2e?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=8A2BE2)
+![Linux](https://img.shields.io/badge/Embedded%20Linux-1a1a2e?style=for-the-badge&amp;logo=linux&amp;logoColor=00BFFF)
+![ModelSim](https://img.shields.io/badge/FPGA%20%7C%20VLSI-1a1a2e?style=for-the-badge&amp;logo=digilent&amp;logoColor=8A2BE2)
+
+**App Development &amp; Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=00BFFF)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=8A2BE2)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=00BFFF)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&amp;logo=linux&amp;logoColor=8A2BE2)
+
+</div>
+
+
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌳 [Tech Tree Root](https://github.com/gx09812/Tech-Tree-Root)
-A system connecting Unity, hardware, and software into one organized tech tree — tracks dependencies, features, and systems for scalable builds.
-`Unity` `Systems Design` `IoT`
-
-</td>
-<td width="50%">
-
 ### 👁️ [CamVis (SmartVision)](https://github.com/gx09812/CamVis)
-Real-time computer vision using **YOLOv8, MediaPipe, and OpenCV** for object, hand, face, and eye tracking — built for AI, robotics, and IoT.
+Real-time computer vision using **YOLOv8, MediaPipe, and OpenCV** for object, hand, face, and eye tracking. Built for AI, robotics, automation, and IoT applications.
 `Python` `YOLOv8` `OpenCV` `MediaPipe`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🚁 [Drone Project (Hackathon)](https://github.com/gx09812/dron_project_hackthon)
-A hackathon build exploring drone systems — hardware meets rapid-prototyped software under a time crunch.
+A hackathon project exploring drone systems where hardware, embedded programming, and rapid software development come together under tight deadlines.
 `Hardware` `Embedded` `Hackathon`
 
 </td>
-<td width="50%">
-
-### 📡 [Wireless MIMO Simulation](https://github.com/gx09812/wireless-mimo-simulation)
-A Python-based real-time simulation of a 3-tower MIMO signal setup, modeling signal strength and multipath fading across a hexagonal cellular network.
-`Python` `Simulation` `Networking`
-
-</td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🎨 [Mukesh Art Gallery E-commerce](https://github.com/gx09812/mukesh-art-gallery-ecommerce)
-A creative gallery site built for my native community — showcases artwork and offers custom pieces for sale, blending portfolio + simple e-commerce.
-`JavaScript` `Web Dev`
+### 📡 [Wireless MIMO Simulation](https://github.com/gx09812/wireless-mimo-simulation)
+A Python-based simulation of a three-tower MIMO wireless network, visualizing signal strength, multipath fading, and cellular coverage.
+`Python` `Simulation` `Networking`
 
 </td>
 <td width="50%">
 
+### 🎨 [Mukesh Art Gallery E-commerce](https://github.com/gx09812/mukesh-art-gallery-ecommerce)
+An e-commerce gallery website built for my local community to showcase artwork and support custom art orders.
+`JavaScript` `Web Development`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🚗 [Mini Car](https://github.com/gx09812/mini_car)
-A hands-on hardware build exploring embedded control for a small vehicle prototype.
-`HTML` `Embedded`
+A hands-on embedded systems project focused on building and controlling a small vehicle prototype.
+`Embedded Systems` `Hardware`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
 </table>
 
-<br/>
 
-## 🧰 Tech Stack
+## Current Learning
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
+![ML](https://img.shields.io/badge/Machine%20Learning-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
+![CV](https://img.shields.io/badge/Computer%20Vision-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
+![Embedded](https://img.shields.io/badge/Embedded%20Systems-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
+![Networking](https://img.shields.io/badge/Networking-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Embedded%20Linux-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
+![FPGA](https://img.shields.io/badge/FPGA-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
+![VLSI](https://img.shields.io/badge/VLSI%20Design-1a1a2e?style=flat-square&amp;color=302b63&amp;labelColor=0d1117)
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gx09812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
@@ -142,7 +152,8 @@ A hands-on hardware build exploring embedded control for a small vehicle prototy
 
 <br/>
 
-## 🐍 Contribution Snake
+
+##  Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/gx09812/gx09812/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
