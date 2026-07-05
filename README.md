@@ -1,68 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:00c6ff&amp;height=220&amp;section=header&amp;text=Gladwin%20Mano%20N&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;descAlignY=58&amp;descSize=18" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Gladwin%20Mano%20N&fontSize=48&fontColor=ffffff"
+  width="100%"
+/>
 
-<a href="https://github.com/gx09812">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day.&amp;font=Fira%20Code&amp;center=true&amp;width=650&amp;height=45&amp;color=00C6FF&amp;vCenter=true&amp;size=22&amp;pause=1200" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/gladwin-mano-n-4175283b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gladwin%20Mano%20N-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-</a>
-<a href="https://github.com/gx09812">
-  <img src="https://img.shields.io/badge/GitHub-gx09812-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-## About Me
-
-<table>
+<table align="center">
 <tr>
 
-<td width="55%" valign="top">
+<td align="center" valign="middle" width="300">
 
-## Name
-Gladwin Mano N
-
-## Role
-Electronics & Communication Engineering Student
-
-## Career Goal
-Core VLSI Engineer | AI & Embedded Systems Innovator
-
-## Philosophy
-Engineering solutions at the intersection of hardware and software.
+<im<img src="./assets/profile.gif"
+     width="150"
+     style="border-radius:60%;">
 
 </td>
 
-<td width="45%" valign="top">
 
-## Focus Areas
+<td align="left" valign="middle">
 
-- **Artificial Intelligence & Machine Learning**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- **Embedded Systems & Embedded Linux**
-
-- **Internet of Things & Computer Vision**
-
-- **FPGA & VLSI Design**
-
-- **Flutter Development**
-
-- **Computer Networking**
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FF&center=false&vCenter=true&width=700&lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day."
+alt="Typing SVG"/>
 
 </td>
 
 </tr>
 </table>
 
+<p align="center">
+
+<a href="mailto:gdx0369@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/gladwin-mano-n-4175283b4/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gladwin%20Mano%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/gx09812">
+  <img src="https://img.shields.io/badge/GitHub-gx09812-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
 <br>
 
+<img
+  src="./assets/about-focus-panel.svg"
+  width="100%"
+  alt="About Me and Focus Areas"
+/>
+<br/>
 
 ## Tech Stack
 
@@ -215,11 +205,14 @@ A hands-on embedded systems project focused on building and controlling a small 
 
 ## Let's Connect
 
+<a href="mailto:gdx0369@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-302B63?style=for-the-badge&amp;logo=gmail&amp;logoColor=00C6FF"/>
+</a>
 <a href="https://www.linkedin.com/in/gladwin-mano-n-4175283b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-302B63?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00C6FF"/>
 </a>
 <a href="https://github.com/gx09812">
-  <img src="https://img.shields.io/badge/GitHub-gx09812-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-302B63?style=for-the-badge&amp;logo=github&amp;logoColor=00C6FF"/>
 </a>
 
 <br/><br/>

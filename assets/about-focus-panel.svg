@@ -1,0 +1,91 @@
+<svg width="1500" height="430" viewBox="0 0 1500 430" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+
+  <!-- ===================== LEFT PANEL: ABOUT ME ===================== -->
+
+  <!-- Section heading -->
+  <rect x="0" y="8" width="4" height="30" fill="#00C6FF"/>
+  <g transform="translate(20,23)" stroke="#00C6FF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="0" cy="-5" r="4.2"/>
+    <path d="M -8 9 C -8 0 8 0 8 9"/>
+  </g>
+  <text x="42" y="30" fill="#e6edf3" font-size="21" font-weight="700" letter-spacing="0.5">ABOUT ME</text>
+
+  <!-- Card border -->
+  <rect x="0" y="56" width="720" height="360" rx="14" fill="#05080f" stroke="#00C6FF" stroke-opacity="0.35" stroke-width="1.4"/>
+
+  <!-- divider column -->
+  <line x1="192" y1="56" x2="192" y2="416" stroke="#1b2430" stroke-width="1"/>
+
+  <!-- row separators -->
+  <line x1="14" y1="140" x2="706" y2="140" stroke="#1b2430" stroke-width="1"/>
+  <line x1="14" y1="224" x2="706" y2="224" stroke="#1b2430" stroke-width="1"/>
+  <line x1="14" y1="308" x2="706" y2="308" stroke="#1b2430" stroke-width="1"/>
+
+  <!-- Row 1: Name -->
+  <g transform="translate(40,98)" stroke="#00C6FF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="0" cy="-5" r="4"/>
+    <path d="M -7 8 C -7 0 7 0 7 8"/>
+  </g>
+  <text x="64" y="104" fill="#ffffff" font-size="18" font-weight="700">Name</text>
+  <text x="210" y="104" fill="#c9d1d9" font-size="18">Gladwin Mano N</text>
+
+  <!-- Row 2: Role -->
+  <g transform="translate(40,182)" stroke="#00C6FF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="-9,-2 0,-7 9,-2 0,3" stroke-linejoin="round"/>
+    <path d="M -5 0 L -5 6 C -5 9 5 9 5 6 L 5 0"/>
+  </g>
+  <text x="64" y="188" fill="#ffffff" font-size="18" font-weight="700">Role</text>
+  <text x="210" y="188" fill="#c9d1d9" font-size="16">Electronics &amp; Communication Engineering Student</text>
+
+  <!-- Row 3: Career Goal -->
+  <g transform="translate(40,266)" stroke="#00C6FF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="9"/>
+    <circle r="5"/>
+    <circle r="1.4" fill="#00C6FF"/>
+  </g>
+  <text x="64" y="272" fill="#ffffff" font-size="18" font-weight="700">Career Goal</text>
+  <text x="210" y="272" fill="#c9d1d9" font-size="15">Core VLSI Engineer | AI &amp; Embedded Systems Innovator</text>
+
+  <!-- Row 4: Philosophy -->
+  <g transform="translate(40,350)" stroke="#00C6FF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cy="-4" r="6.5"/>
+    <line x1="-3" y1="4" x2="3" y2="4"/>
+    <rect x="-3" y="4" width="6" height="3" rx="1" stroke="none" fill="#00C6FF"/>
+  </g>
+  <text x="64" y="356" fill="#ffffff" font-size="18" font-weight="700">Philosophy</text>
+  <text x="210" y="350" fill="#c9d1d9" font-size="16">
+    <tspan x="210" dy="0">Engineering solutions at the intersection of</tspan>
+    <tspan x="210" dy="24">hardware and software.</tspan>
+  </text>
+
+  <!-- ===================== RIGHT PANEL: FOCUS AREAS ===================== -->
+
+  <rect x="780" y="8" width="4" height="30" fill="#8A2BE2"/>
+  <g transform="translate(800,23)" stroke="#8A2BE2" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="9"/>
+    <circle r="5"/>
+    <circle r="1.4" fill="#8A2BE2"/>
+  </g>
+  <text x="822" y="30" fill="#e6edf3" font-size="21" font-weight="700" letter-spacing="0.5">FOCUS AREAS</text>
+
+  <rect x="780" y="56" width="720" height="360" rx="14" fill="#05080f" stroke="#8A2BE2" stroke-opacity="0.35" stroke-width="1.4"/>
+
+  <circle cx="812" cy="97" r="4.5" fill="#00C6FF"/>
+  <text x="832" y="103" fill="#e6edf3" font-size="17">Artificial Intelligence &amp; Machine Learning</text>
+
+  <circle cx="812" cy="155" r="4.5" fill="#00C6FF"/>
+  <text x="832" y="161" fill="#e6edf3" font-size="17">Embedded Systems &amp; Embedded Linux</text>
+
+  <circle cx="812" cy="213" r="4.5" fill="#00C6FF"/>
+  <text x="832" y="219" fill="#e6edf3" font-size="17">Internet of Things &amp; Computer Vision</text>
+
+  <circle cx="812" cy="271" r="4.5" fill="#00C6FF"/>
+  <text x="832" y="277" fill="#e6edf3" font-size="17">FPGA &amp; VLSI Design</text>
+
+  <circle cx="812" cy="329" r="4.5" fill="#00C6FF"/>
+  <text x="832" y="335" fill="#e6edf3" font-size="17">Flutter Development</text>
+
+  <circle cx="812" cy="387" r="4.5" fill="#00C6FF"/>
+  <text x="832" y="393" fill="#e6edf3" font-size="17">Computer Networking</text>
+
+</svg>
