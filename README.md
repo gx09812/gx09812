@@ -17,43 +17,52 @@
 
 </div>
 
-<br/>
+<br>
 
 ## About Me
 
 <table>
 <tr>
-<td width="50%">
 
-**Name**
+<td width="55%" valign="top">
+
+## Name
 Gladwin Mano N
 
-**Role**
-Electronics &amp; Communication Engineering Student
+## Role
+Electronics & Communication Engineering Student
 
-**Career Goal**
-Core VLSI Engineer • AI &amp; Embedded Systems Innovator
+## Career Goal
+Core VLSI Engineer | AI & Embedded Systems Innovator
 
-**Philosophy**
+## Philosophy
 Engineering solutions at the intersection of hardware and software.
 
 </td>
-<td width="50%">
 
-**Focus Areas**
+<td width="45%" valign="top">
 
-- Artificial Intelligence &amp; Machine Learning
-- Embedded Systems &amp; Embedded Linux
-- IoT &amp; Computer Vision
-- FPGA &amp; VLSI Design
-- Flutter Development
-- Computer Networking
+## Focus Areas
+
+- **Artificial Intelligence & Machine Learning**
+
+- **Embedded Systems & Embedded Linux**
+
+- **Internet of Things & Computer Vision**
+
+- **FPGA & VLSI Design**
+
+- **Flutter Development**
+
+- **Computer Networking**
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+<br>
+
 
 ## Tech Stack
 
@@ -164,12 +173,12 @@ A hands-on embedded systems project focused on building and controlling a small 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gx09812&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gx09812&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gx09812&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gx09812&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="60%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gx09812&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
 
 </div>
 
@@ -182,7 +191,6 @@ A hands-on embedded systems project focused on building and controlling a small 
 <img src="https://raw.githubusercontent.com/gx09812/gx09812/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
 </div>
-
 
 <br/>
 
