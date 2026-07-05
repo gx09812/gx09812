@@ -4,7 +4,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Gladwin%20Mano%20N&fontSize=48&fontColor=ffffff"
   width="100%"
 />
-
+</div>
 
 
 <table align="center" border="0">
