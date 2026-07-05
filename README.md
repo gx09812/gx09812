@@ -8,7 +8,7 @@
 
 
 <table align="center" border="0">
-<tr>
+
 
 <td align="center" valign="middle" width="220">
 
@@ -16,16 +16,15 @@
      width="170"
      alt="Gladwin Mano N"/>
 
-</td>
 
 <td align="left" valign="middle">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FF&center=false&vCenter=true&width=650&height=120&lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day."
 alt="Typing SVG"/>
 
-</td>
 
-</tr>
+
+
 </table>
 
 <p align="center">
