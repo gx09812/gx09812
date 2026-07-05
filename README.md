@@ -183,7 +183,6 @@ A hands-on embedded systems project focused on building and controlling a small 
 
 </div>
 
-<sub>Note: the snake animation needs a one-time GitHub Actions setup in this repo (`Platane/snk`) to generate the SVG — see the setup note at the bottom of this file.</sub>
 
 <br/>
 
