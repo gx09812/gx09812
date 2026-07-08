@@ -1,23 +1,36 @@
 <div style="background-color: #060913; background-image: linear-gradient(180deg, #060913 0%, #0b1120 50%, #060913 100%); padding: 30px 20px; border-radius: 20px; border: 1px solid #1e293b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 
+
+
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Gladwin%20Mano%20N&fontSize=48&fontColor=ffffff" width="100%" />
   </div>
 
   <br/>
 
-  <div align="center">
-    <table border="0" cellpadding="0" cellspacing="0" style="padding: 20px;">
-      <tr>
-        <td align="center" valign="middle" width="220">
-          <img src="https://github.com/gx09812.png" width="160" alt="Gladwin Mano N" style="border-radius: 50%; border: 3px solid #00C6FF; box-shadow: 0 0 15px rgba(0, 198, 255, 0.6); object-fit: cover;"/>
-        </td>
-        <td align="left" valign="middle" style="padding-left: 20px;">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FF&center=false&vCenter=true&width=650&height=120&lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day." alt="Typing SVG"/>
-        </td>
-      </tr>
-    </table>
-  </div>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" valign="middle" width="220">
+<img src="./assets/avatar-glow.svg" width="180" alt="Gladwin Mano N"/>
+</td>
+
+<td width="20"></td>
+
+<td align="left" valign="middle">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FF&vCenter=true&width=650&lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day."
+alt="Typing SVG"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
   <br/>
 

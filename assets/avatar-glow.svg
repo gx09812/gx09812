@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="220"
+     height="220"
+     viewBox="0 0 220 220">
+
+  <defs>
+
+    <!-- Circle crop -->
+    <clipPath id="circleClip">
+      <circle cx="110" cy="110" r="86"/>
+    </clipPath>
+
+    <!-- Glow -->
+    <filter id="glow"
+            x="-50%"
+            y="-50%"
+            width="200%"
+            height="200%">
+      <feGaussianBlur stdDeviation="8"
+                      result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Background -->
+    <radialGradient id="bg"
+                    cx="50%"
+                    cy="50%"
+                    r="65%">
+      <stop offset="0%"
+            stop-color="#1f2937"/>
+      <stop offset="100%"
+            stop-color="#050816"/>
+    </radialGradient>
+
+  </defs>
+
+  <!-- Background -->
+  <circle
+      cx="110"
+      cy="110"
+      r="108"
+      fill="url(#bg)"/>
+
+  <!-- Outer Glow -->
+  <circle
+      cx="110"
+      cy="110"
+      r="99"
+      fill="none"
+      stroke="#00C6FF"
+      stroke-width="5"
+      opacity="0.9"
+      filter="url(#glow)"/>
+
+  <!-- Main Ring -->
+  <circle
+      cx="110"
+      cy="110"
+      r="97"
+      fill="none"
+      stroke="#00C6FF"
+      stroke-width="3"/>
+
+  <!-- Inner Ring -->
+  <circle
+      cx="110"
+      cy="110"
+      r="92"
+      fill="none"
+      stroke="#5CE1FF"
+      stroke-width="1.5"
+      opacity="0.7"/>
+
+  <!-- Avatar -->
+  <image
+      href="https://avatars.githubusercontent.com/u/222240986?v=4&s=512"
+      x="24"
+      y="24"
+      width="172"
+      height="172"
+      preserveAspectRatio="xMidYMid slice"
+      clip-path="url(#circleClip)"/>
+
+</svg>
