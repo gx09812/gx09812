@@ -14,8 +14,7 @@
 <tr>
 
 <td align="center" valign="middle" width="220">
-<img src="./assets/avatar-glow.svg" width="180" alt="Gladwin Mano N"/>
-</td>
+<img src="https://github.com/gx09812.png" width="160" alt="Gladwin Mano N" style="border-radius: 50%; border: 3px solid #00C6FF; box-shadow: 0 0 15px rgba(0, 198, 255, 0.6); object-fit: cover;"/></td>
 
 <td width="20"></td>
 
