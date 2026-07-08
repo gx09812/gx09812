@@ -74,13 +74,13 @@
       stroke-width="1.5"
       opacity="0.7"/>
 
-  <image
-      href="https://thefrisky.com/wp-content/uploads/2018/11/OB-scaled.jpg"
-      x="24"
-      y="24"
-      width="172"
-      height="172"
-      preserveAspectRatio="xMidYMid slice"
-      clip-path="url(#circleClip)"/>
+ <image
+    href="https://thefrisky.com/wp-content/uploads/2018/11/OB-scaled.jpg"
+    x="24"
+    y="24"
+    width="172"
+    height="172"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#circleClip)"/>
 
 </svg>
