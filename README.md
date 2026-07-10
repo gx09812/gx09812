@@ -7,10 +7,10 @@
   </div>
 
   <br/>
-  
+
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="border:none;" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td align="center" valign="middle" width="220" border="0">
