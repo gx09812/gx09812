@@ -2,25 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Gladwin%20Mano%20N&fontSize=48&fontColor=ffffff" width="100%" />
 
+
+
+<div align="center">
+
+<img src="./assets/avatar-glow.svg" width="210" align="left" alt="Gladwin Mano N"/>
 <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FF&vCenter=true&width=400&lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day." alt="Typing SVG"/>
 
-<table border="0">
-<tr>
-
-<td align="center" valign="middle" width="220">
-  <img src="./assets/avatar-glow.svg" width="250" alt="Gladwin Mano N"/>
-</td>
-
-<td width="20"></td>
-
-<td align="left" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FF&vCenter=true&width=650&lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day." alt="Typing SVG"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br/>
 
