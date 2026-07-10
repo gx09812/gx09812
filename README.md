@@ -7,18 +7,19 @@
   </div>
 
   <br/>
-
+  
 <div align="center">
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td align="center" valign="middle" width="220">
-<img src="./assets/avatar-glow.svg" width="250" alt="Gladwin Mano N"/></td>
+<td align="center" valign="middle" width="220" border="0">
+  <img src="./assets/avatar-glow.svg" width="250" alt="Gladwin Mano N"/>
+</td>
 
 <td width="20"></td>
 
-<td align="left" valign="middle">
+<td align="left" valign="middle" border="0">
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FF&vCenter=true&width=650&lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day."
