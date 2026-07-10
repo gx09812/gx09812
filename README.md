@@ -9,7 +9,7 @@
 <img src="./assets/avatar-glow.svg" width="210" align="left" alt="Gladwin Mano N"/>
 <br/>
 <br/>
-
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C6FF&vCenter=true&width=400&lines=IoT+%26+Embedded+Systems+Enthusiast;Connecting+Hardware+%2B+Software+%2B+AI;Full-time+Student+%7C+Full-time+Builder;Learning+something+new+every+single+day." alt="Typing SVG"/>
 
 </div>
